@@ -61,7 +61,7 @@ Gym3D is a single-page, front-end-only concept website that showcases what a 202
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/gym3d-ui.git
+git clone https://github.com/SHARAT-S-UNNITHAN/Gym3D--3D-Motion-Tracking-Fitness-Platform-UI.git
 
 # Navigate to project
 cd gym3d-ui
